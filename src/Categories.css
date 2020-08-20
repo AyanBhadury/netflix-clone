@@ -1,0 +1,35 @@
+.categories {
+  margin-left: 20px;
+  color: white;
+}
+
+.categories_posters {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.categories_posters::-webkit-scrollbar {
+  display: none;
+}
+
+.categories_poster {
+  width: 100%;
+  object-fit: contain;
+  max-height: 100px;
+  margin-right: 10px;
+  transition: transform 450ms;
+}
+
+.categories_poster:hover {
+  transform: scale(1.08);
+}
+
+.categories_poster_large {
+  max-height: 250px;
+}
+
+.categories_poster:hover {
+  transform: scale(1.09);
+}

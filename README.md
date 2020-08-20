@@ -23,4 +23,4 @@
 
  > #### Please provide support by sharing a star ⭐
 
-######### All data shown on the demo are trademarks of [TMDB](https://www.themoviedb.org/)
+###### All data shown on the demo are trademarks of [TMDB](https://www.themoviedb.org/)
